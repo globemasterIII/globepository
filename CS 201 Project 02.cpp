@@ -51,7 +51,7 @@ public:
         }
     }
 
-    //This will take in all of the course the student will be taking
+    //This will add courses for the student
     void listCourses()
     {
         if (courses.empty()) 
